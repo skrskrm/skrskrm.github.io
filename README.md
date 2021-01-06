@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+*Mingyang Wang*'s User Page
 
-You can use the [editor on GitHub](https://github.com/skrskrm/skrskrm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# My favorite programming language is Java!
+## Hello
+** I'm a 3rd year UCSD student majoring in Computer Science **
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### My Hobbies
+- CSGO
+- Cooking
+- Table Tennis
 
-```markdown
-Syntax highlighted code block
+#### Courses I'm taking this Quarter
+1. CSE 110
+2. CSE 130
+3. CSE 140L
+4. CSE 151A
+5. PHYS 2A
 
-# Header 1
-## Header 2
-### Header 3
+In the words of Prof
+> You shall not pass.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+print("Hello, world!")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here is a funny video about programming[What people think programming is vs. how it actually is](https://youtu.be/HluANRwPyNo)
+Here is my favorite album ![Blonde on Blonde](https://images-na.ssl-images-amazon.com/images/I/81oXh1sQasL._SL1500_.jpg)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skrskrm/skrskrm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

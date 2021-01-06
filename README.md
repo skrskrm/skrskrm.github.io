@@ -30,7 +30,7 @@ print("Hello, world!")
 
 [Screenshot of command line git transactions](1.png)
 
-[Go to Favorite Programming Language Section](# my-favorite-programming-language-is-java!)
+[Go to Favorite Programming Language Section](#my-favorite-programming-language-is-java!)
 
 #### Here is a funny video about programming [What people think programming is vs. how it actually is](https://youtu.be/HluANRwPyNo)
 

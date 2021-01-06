@@ -1,3 +1,5 @@
+#Real Cool Heading
+
 *Mingyang Wang*'s User Page
 
 # My favorite programming language is Java!
@@ -30,7 +32,7 @@ print("Hello, world!")
 
 [Screenshot of command line git transactions](1.png)
 
-[Go to My Favorite Language Section](#my favorite programming language is java!)
+[Go to Real Cool Heading section](#real-cool-heading)
 
 #### Here is a funny video about programming [What people think programming is vs. how it actually is](https://youtu.be/HluANRwPyNo)
 

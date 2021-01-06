@@ -25,6 +25,9 @@ In the words of Prof
 print("Hello, world!")
 ```
 
-Here is a funny video about programming[What people think programming is vs. how it actually is](https://youtu.be/HluANRwPyNo)
-Here is my favorite album ![Blonde on Blonde](https://images-na.ssl-images-amazon.com/images/I/81oXh1sQasL._SL1500_.jpg)
+#### Here is a funny video about programming[What people think programming is vs. how it actually is](https://youtu.be/HluANRwPyNo)
+
+
+
+#### Here is my favorite album ![Blonde on Blonde](https://images-na.ssl-images-amazon.com/images/I/81oXh1sQasL._SL1500_.jpg)
 

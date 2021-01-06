@@ -2,7 +2,7 @@
 
 # My favorite programming language is Java!
 ## Hello
-** I'm a 3rd year UCSD student majoring in Computer Science **
+**I'm a 3rd year UCSD student majoring in Computer Science**
 
 
 

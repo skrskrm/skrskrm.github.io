@@ -25,7 +25,7 @@ In the words of Prof
 print("Hello, world!")
 ```
 
-#### Here is a funny video about programming[What people think programming is vs. how it actually is](https://youtu.be/HluANRwPyNo)
+#### Here is a funny video about programming [What people think programming is vs. how it actually is](https://youtu.be/HluANRwPyNo)
 
 
 

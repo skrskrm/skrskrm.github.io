@@ -28,6 +28,8 @@ print("Hello, world!")
 - [x] Lunch
 - [ ] Dinner
 
+[Screenshot of command line git transactions](skrskrm.github.io/1.png)
+
 #### Here is a funny video about programming [What people think programming is vs. how it actually is](https://youtu.be/HluANRwPyNo)
 
 
